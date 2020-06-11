@@ -1,0 +1,17 @@
+{
+  "name": "css_components",
+  "version": "1.0.0",
+  "description": "different components that build a nice dashbaord using tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taiwlind",
+    "css",
+    "dashboard",
+    "components"
+  ],
+  "author": "Christian Capeáns Pérez",
+  "license": "ISC"
+}
